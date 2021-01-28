@@ -1,0 +1,6 @@
+package com.lk.grocery
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
